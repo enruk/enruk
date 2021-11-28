@@ -1,5 +1,5 @@
-- Hi, I’m @enruk
-- I’m work fulltime as a mechanical engineer and i love coding in my free time
+- Hi, I’m Henrik
+- I’m work fulltime as a mechanical engineer and i enjoy coding in my free time
 - I'm mainly interested in programming around topics like robotics, production and automation plants
 - I’m currently learning java
 
